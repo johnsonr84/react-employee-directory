@@ -46,7 +46,7 @@
   https://github.com/johnsonr84/react-employee-directory
 
   ## Deployment
-  coming soon!
+  https://johnsonr84.github.io/react-employee-directory/
 
   ## Mock-Up
   <table>

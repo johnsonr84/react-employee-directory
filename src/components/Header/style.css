@@ -1,9 +1,9 @@
 header {
 	padding: 25px;
-	background-color: navy;
+	background-color: #32353E;
 }
 
 header > h1 {
 	text-align: center;
-	color: #fff;
+	color: #61DAFB;
 }

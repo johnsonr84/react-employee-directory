@@ -54,7 +54,7 @@
       <td>react-employee-directory example</td>
     </tr>
     <tr>
-      <td><img src="" height=400 alt="screenshot of react-employee-directory"></td>
+      <td><img src="src/img/emp-dir.png" height=400 alt="screenshot of react-employee-directory"></td>
     </tr>
   </table>
 

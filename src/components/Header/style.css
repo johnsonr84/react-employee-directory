@@ -1,9 +1,3 @@
-header {
-	padding: 25px;
-	background-color: #32353E;
-}
-
-header > h1 {
-	text-align: center;
+h1 {
 	color: #61DAFB;
 }

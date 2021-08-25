@@ -12,7 +12,6 @@ function App() {
   const [dataValue, setDataValue] = useState('name.first');
   const [sortValue, setSortValue] = useState(-1);
 
-
   useEffect(() => {
     API.getEmployees()
       .then((res) => res.data.results)
@@ -36,7 +35,7 @@ function App() {
         return employee[dataValue]
     }
   }
-  
+
     const updateData = (data) => {
       if (dataValue === data) {
         setSortValue(-sortValue)

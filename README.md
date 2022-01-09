@@ -1,38 +1,28 @@
-# react-employee-directory
+ <h1 align="center"><a href="https://johnsonr84.github.io/react-employee-directory/">👩‍💻 React Employee Directory 👨‍💻</a></h1>
 
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
-  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/react-employee-directory)
-  [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/react-employee-directory)
+  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/react-employee-directory?color=orange)](https://github.com/johnsonr84/react-employee-directory)
+  [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/react-employee-directory?color=yellow)](https://github.com/johnsonr84/react-employee-directory)
   [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   [![node.js](https://img.shields.io/node/v/c?color=brightgreen)](https://nodejs.org/en/)
   [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
+  
+  ## Built With
+  [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
   ## Table of Contents 
   * [Description](#Description)
-  * [User Story](#UserStory)
   * [Project URL](#Project-URL)
-  * [Deplyment](#Deployment)
-  * [Mock-up](#Mock-up)
-  * [Technologies](#Technologies)
+  * [Deployment](#Deployment)
+  * [Demo/Screenshots](#Demo/Screenshots)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
-  * [Features](#Features)
-  * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed and built by](#Designed-and-built-by)
+  * [Author](#Author)
   #
-  
-  ## Description 
-  React Employee Directory uses React Hooks to filter and sort employees by name and other categories.
-  The app's UI is broken up into components, managed by state and responds to user events. 
-
-  ## UserStory 
-  
-  As a user, I want to be able to view my entire employee directory at once 
-  so that I have quick access to their information.
   
   ## Acceptance Criteria
   Given a table of random users generated from the [Random User API](https://randomuser.me/), 
@@ -48,7 +38,7 @@
   ## Deployment
   https://johnsonr84.github.io/react-employee-directory/
 
-  ## Mock-Up
+  ## Demo/Screenshots
   <table>
     <tr>
       <td>react-employee-directory example</td>
@@ -100,7 +90,7 @@
   ## Contact
   Email: robertcjohnson1984@gmail.com 
 
-  ## Designed and built by
+  ## Author
   Author(s): Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 
